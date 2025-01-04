@@ -43,7 +43,8 @@
 
 
 #### **Code Editors**  
-[![VS Code]([https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png))](https://code.visualstudio.com/) [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
+[![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
+
 
 
 #### **Cloud Platforms**  
