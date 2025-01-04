@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-👨‍💻 I'm working as a Full Stack Web Developer, Mobile app Developer, at Chennai<br>📖 Currently learning CI/CD and AWS<br>⚡ I love Scripting languages and Open source Tools<br>🛠️ I could Create/Edit Videos using Kdenlive
+👨‍💻 I'm working as a Full Stack Web Developer, Mobile app Developer, at Chennai<br>📖 Currently learning CI/CD and AWS<br>⚡ I love Scripting languages and Open source Tools<br>
 
 
 ## 🌐 Socials:
