@@ -40,6 +40,9 @@
 #### **Cloud Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 
+#### **Dev Tools**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MantisBT](https://img.shields.io/badge/MantisBT-609926?style=for-the-badge&logo=mantis&logoColor=white)
+
 #### **Operating Systems**  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![MacOS](https://img.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white)  
 
