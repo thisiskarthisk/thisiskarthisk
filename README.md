@@ -1,88 +1,75 @@
-<div align="center">
+## Hi there <img src="https://github.com/user-attachments/assets/6e2c6164-8b14-417b-a571-4509093ffb59" style="width: 1em;" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Sathiya%20Karthick&fontSize=42&fontColor=EDEFF2&color=0:0E141B,50:16202B,100:1B2838&animation=fadeIn&fontAlignY=45" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D9A441&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js;ERP+%26+Enterprise+Systems;Chennai%2C+India" alt="Typing SVG" />
+```
+# # # #           # #    #     #         # # # #  #     #
+   #             #   #   # # # #         #        #   #
+   #            # # # #  #  #  #         # # # #  # #
+   #            #     #  #     #               #  #   #
+# # # #         #     #  #     #         # # # #  #     #
+```
 
-</div>
 
-<br>
+# 💫 About Me:
+👨‍💻 I'm working as a Full Stack Web Developer, Mobile app Developer, at Chennai<br>📖 Currently learning CI/CD and AWS<br>⚡ I love Scripting languages and Open source Tools<br>
 
-<table width="100%">
-<tr>
 
-<td width="30%" valign="top">
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19rpevsht4/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_karthi___sk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sathiya-karthick-5975081b2/) 
 
-<div align="center">
+### 💻 Tech Stack  
 
-<img src="https://github.com/thisiskarthisk.png" width="140" style="border-radius:50%" alt="profile photo" />
+#### **Languages**  
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
 
-### Sathiya Karthick
-**Software Engineer** · Chennai, IN
+#### **Frameworks**  
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)  [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)  [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)  [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)  
 
-<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thisiskarthisk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathiya-karthick-5975081b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_karthi___sk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathiyakarthick.r@gmail.com)
+#### **Mobile App Development**  
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)  [![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)  
 
-</div>
 
-<br>
+#### **Databases**  
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
-**🎓 Certifications**
 
-🏅 Complete Web Dev Bootcamp — *Udemy, 2024*
-🏅 Python for Beginners — *Simplilearn*
-🏅 React.js for Beginners — *Simplilearn*
+#### **Design Frameworks**  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)  [![Materialize](https://img.shields.io/badge/Materialize-E91E63?style=for-the-badge&logo=material-design&logoColor=white)](https://materializecss.com/)  [![MDBootstrap](https://img.shields.io/badge/MDBootstrap-FF7851?style=for-the-badge&logo=bootstrap&logoColor=white)](https://mdbootstrap.com/)  
 
-<br>
 
-**✨ Highlights**
+#### **Designing Tools**  
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)  [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)  [![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)  
 
-🚀 4+ years building full‑stack & ERP systems
-🏢 Software Engineer @ Proflujo Technology
-🌱 Currently learning CI/CD & AWS
-🐙 Active open‑source contributor
 
-</td>
+#### **Code Editors**  
+[![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
 
-<td width="70%" valign="top">
+#### **Cloud Platforms**  
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
 
-**🧑‍💻 Technical Skills:**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,laravel,react,next,nodejs,py,flask,fastapi&perline=12" alt="skills row 1" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,flutter,bootstrap,mui,git,github,vscode,sublime,aws,postman,vue&perline=12" alt="skills row 2" />
+#### **Dev Tools**  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![MantisBT](https://img.shields.io/badge/MantisBT-609926?style=for-the-badge&logo=mantis&logoColor=white)](https://www.mantisbt.org/)  
 
-<br><br>
 
-**📊 GitHub Stats:**
+#### **Operating Systems**  
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)  [![MacOS](https://img.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)  
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiskarthisk&theme=github_dark" alt="profile details card" />
+#### **Version Control Tools**  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thisiskarthisk&theme=github_dark" alt="most used language donut" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisiskarthisk&theme=github_dark" alt="commit stats" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthisk&theme=github-dark-blue&hide_border=true&background=0D1117" alt="streak stats" />
 
-<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thisiskarthisk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthisk&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthisk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**🏆 GitHub Trophies:**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thisiskarthisk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=thisiskarthisk&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6" alt="trophies" />
+---
+[![](https://visitcount.itsvg.in/api?id=thisiskarthisk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=thisiskarthisk&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1B2838,50:16202B,100:0E141B" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
