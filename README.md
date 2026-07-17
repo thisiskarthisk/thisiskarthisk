@@ -1,75 +1,188 @@
-## Hi there <img src="https://github.com/user-attachments/assets/6e2c6164-8b14-417b-a571-4509093ffb59" style="width: 1em;" />
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Sathiya%20Karthick&fontSize=52&fontColor=EDEFF2&color=0:0E141B,50:16202B,100:1B2838&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20App%20Developer%20%C2%B7%20Chennai%2C%20India&descAlignY=58&descSize=18&descColor=4FB6C4" alt="header" />
+
+<a href="https://github.com/thisiskarthisk">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=D9A441&center=true&vCenter=true&width=640&lines=Building+scalable+web+%26+ERP+systems;PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Laravel;Currently+learning+CI%2FCD+and+AWS;Open+to+collaboration+on+open-source" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
+
+## 💫 About Me
 
 ```
-# # # #           # #    #     #         # # # #  #     #
-   #             #   #   # # # #         #        #   #
-   #            # # # #  #  #  #         # # # #  # #
-   #            #     #  #     #               #  #   #
-# # # #         #     #  #     #         # # # #  #     #
+ layer/  frontend   →  React · Next.js · Flutter · React Native
+ layer/  backend    →  PHP (Laravel) · Python · Node.js
+ layer/  database   →  MySQL · PostgreSQL
+ layer/  ops        →  learning CI/CD & AWS
 ```
 
+- 👨‍💻 Full Stack Web & Mobile App Developer based in **Chennai, India**
+- 🏢 Building enterprise web apps & ERP modules with **Odoo**, **Laravel**, and **React/Next.js**
+- 📖 Currently leveling up on **CI/CD** and **AWS**
+- ⚡ Big fan of scripting languages and open-source tooling
+- 📫 Reach me at **sathiyakarthick.r@gmail.com**
 
-# 💫 About Me:
-👨‍💻 I'm working as a Full Stack Web Developer, Mobile app Developer, at Chennai<br>📖 Currently learning CI/CD and AWS<br>⚡ I love Scripting languages and Open source Tools<br>
+<br>
 
+## 🌐 Connect With Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19rpevsht4/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_karthi___sk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sathiya-karthick-5975081b2/) 
+<div align="center">
 
-### 💻 Tech Stack  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19rpevsht4/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_karthi___sk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathiya-karthick-5975081b2/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathiyakarthick.r@gmail.com)
 
-#### **Languages**  
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+</div>
 
-#### **Frameworks**  
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)  [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)  [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)  [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)  [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)  
+<br>
 
+## 🛠️ Tech Stack
 
-#### **Mobile App Development**  
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)  [![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)  
+<div align="center">
 
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-#### **Databases**  
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+**Frameworks & Libraries**
+<br>
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+**Mobile Development**
+<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### **Design Frameworks**  
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)  [![Materialize](https://img.shields.io/badge/Materialize-E91E63?style=for-the-badge&logo=material-design&logoColor=white)](https://materializecss.com/)  [![MDBootstrap](https://img.shields.io/badge/MDBootstrap-FF7851?style=for-the-badge&logo=bootstrap&logoColor=white)](https://mdbootstrap.com/)  
+**Databases**
+<br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**UI / Design Frameworks**
+<br>
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Materialize](https://img.shields.io/badge/Materialize-E91E63?style=for-the-badge&logo=materialdesign&logoColor=white)
+![MDBootstrap](https://img.shields.io/badge/MDBootstrap-FF7851?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### **Designing Tools**  
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)  [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)  [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)  [![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)  
+**Cloud & DevOps**
+<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
+**Tools**
+<br>
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-575757?style=for-the-badge&logo=sublimetext&logoColor=FF9800)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-#### **Code Editors**  
-[![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=FF9800)](https://www.sublimetext.com/)
+</div>
 
-#### **Cloud Platforms**  
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+<br>
 
+## 📊 GitHub Analytics
 
-#### **Dev Tools**  
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![MantisBT](https://img.shields.io/badge/MantisBT-609926?style=for-the-badge&logo=mantis&logoColor=white)](https://www.mantisbt.org/)  
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thisiskarthisk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D9A441&icon_color=4FB6C4&text_color=EDEFF2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthisk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D9A441&text_color=EDEFF2" />
 
-#### **Operating Systems**  
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)  [![MacOS](https://img.shields.io/badge/MacOS-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthisk&theme=tokyonight&hide_border=true&background=0D1117&ring=4FB6C4&fire=D9A441&currStreakLabel=EDEFF2" />
 
-#### **Version Control Tools**  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+</div>
 
+<br>
 
+## 🏆 Trophies
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thisiskarthisk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthisk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthisk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=thisiskarthisk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thisiskarthisk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/thisiskarthisk/thisiskarthisk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</div>
+
+> ⚠️ The snake above renders once you add the workflow file below to this repo (`thisiskarthisk/thisiskarthisk`) — GitHub Actions generates it automatically on a schedule. See **Snake Setup** at the bottom of this file.
+
+<br>
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=thisiskarthisk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+<br>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=thisiskarthisk&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1B2838,50:16202B,100:0E141B" />
+
+</div>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thisiskarthisk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚙️ Snake Setup (one-time, optional)
+
+To make the contribution snake animate for real, create `.github/workflows/snake.yml` in this repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: thisiskarthisk
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push it once, run the workflow manually from the **Actions** tab, and the `output` branch will hold the animated SVG the README already points to.
